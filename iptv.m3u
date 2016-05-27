@@ -1,269 +1,93 @@
-#EXTM3U
-#EXTINF:0,Das Erste
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1748.ts
-#EXTINF:0,3sat
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1749.ts
-#EXTINF:0,13th Street
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1750.ts
-#EXTINF:0,AXN
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1747.ts
-#EXTINF:0,Sky Bundesliga 2
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1746.ts
-#EXTINF:0,Sky Bundesliga 3
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1745.ts
-#EXTINF:0,Sky Bundesliga 5
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1744.ts
-#EXTINF:0,DMAX
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1734.ts
-#EXTINF:0,Disney XD
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1735.ts
-#EXTINF:0,Disney Cinemagic
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1736.ts
-#EXTINF:0,Disney Channel
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1737.ts
-#EXTINF:0,Discovery Channel
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1738.ts
-#EXTINF:0,Sky Cinema +24
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1739.ts
-#EXTINF:0,Nat Geo Wild
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1724.ts
-#EXTINF:0,N24
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1725.ts
-#EXTINF:0,n-tv
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1726.ts
-#EXTINF:0,MGM
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1727.ts
-#EXTINF:0,KinoweltTV
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1728.ts
-#EXTINF:0,KIKA
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1729.ts
-#EXTINF:0,kabel eins
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1730.ts
-#EXTINF:0,Junior
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1731.ts
-#EXTINF:0,History HD
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1732.ts
-#EXTINF:0,RTL
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1714.ts
-#EXTINF:0,Passion
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1715.ts
-#EXTINF:0,RTL Nitro
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1716.ts
-#EXTINF:0,RTL Crime
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1718.ts
-#EXTINF:0,RTL II
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1719.ts
-#EXTINF:0,Romance TV
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1720.ts
-#EXTINF:0,ProSieben Maxx
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1721.ts
-#EXTINF:0,ProSieben
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1722.ts
-#EXTINF:0,National Geographic
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1723.ts
-#EXTINF:0,Sky Nostalgie
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1699.ts
-#EXTINF:0,Sky Krimi
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1700.ts
-#EXTINF:0,Sky Cinema Hits
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1701.ts
-#EXTINF:0,Sky Emotion
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1702.ts
-#EXTINF:0,Sky Comedy
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1703.ts
-#EXTINF:0,Sky Cinema
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1704.ts
-#EXTINF:0,Sky Cinema +1
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1705.ts
-#EXTINF:0,Sky Bundesliga 4
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1706.ts
-#EXTINF:0,Sky Bundesliga 1
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1707.ts
-#EXTINF:0,Sky Atlantic HD
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1708.ts
-#EXTINF:0,Sky Action
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1709.ts
-#EXTINF:0,sixx
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1710.ts
-#EXTINF:0,Sat1 Gold
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1711.ts
-#EXTINF:0,Sat1 Emotions
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1712.ts
-#EXTINF:0,Sat.1
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1713.ts
-#EXTINF:0,ZDF
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1689.ts
-#EXTINF:0,VOX
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1690.ts
-#EXTINF:0,TNT Serie
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1691.ts
-#EXTINF:0,TLC
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1692.ts
-#EXTINF:0,Syfy HD
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1693.ts
-#EXTINF:0,Super RTL
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1694.ts
-#EXTINF:0,Sky Sport News HD
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1695.ts
-#EXTINF:0,Spiegel Geschichte
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1696.ts
-#EXTINF:0,Sky Sport HD
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1698.ts
-#EXTINF:0,Sky Sport HD 2
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1697.ts
-#EXTINF:0,x
-http://ultra.super-iptv.space:13884/live/sandro/sandro/164.ts
-#EXTINF:0,Fox Serie
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1686.ts
-#EXTINF:0,ZDFinfokanal
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1688.ts
-#EXTINF:0,SRF 1
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1643.ts
-#EXTINF:0,SRF zwei
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1642.ts
-#EXTINF:0,Sky Select 1
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1652.ts
-#EXTINF:0,Sky Select 2
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1651.ts
-#EXTINF:0,Sky Select 3
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1650.ts
-#EXTINF:0,Sky Select 4
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1649.ts
-#EXTINF:0,Sky Select 5
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1648.ts
-#EXTINF:0,Sky Select 6
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1647.ts
-#EXTINF:0,Sky Select 7
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1646.ts
-#EXTINF:0,Sky Select 8
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1645.ts
-#EXTINF:0,Sky Select 9
-http://ultra.super-iptv.space:13884/live/sandro/sandro/1644.ts
-#EXTINF:-1,Nat Geo Wild
-http://bitkananeretvi.dyndns.org:8000/live/razmjenatest5/razmena2342/999.ts
-#EXTINF:-1,Nat Geographic HD
-http://bitkananeretvi.dyndns.org:8000/live/razmjenatest5/razmena2342/792.ts
-#EXTINF:-1,Tnt Film  HD
-http://185.73.239.23:8000/live/ESSL/GHGFNBVUD286/4659.ts
-#EXTINF:-1,Sky MGM HD
-http://185.73.239.23:8000/live/ESSL/GHGFNBVUD286/4669.ts
-#EXTINF:-1,Sky FOX
-http://185.73.239.23:8000/live/ESSL/GHGFNBVUD286/4660.ts
-#EXTINF:-1,Sky Comedy HD
-http://185.73.239.23:8000/live/ESSL/GHGFNBVUD286/4673.ts
-#EXTINF:-1,Spiegel Geschichte HD
+
+#EXTINF:-1,Spiegel Geschichte
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7655.ts
-#EXTINF:-1,Select
+#EXTINF:-1,Sky Select
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7584.ts
-#EXTINF:-1,Disney Junior HD
+#EXTINF:-1,Disney Junior
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7651.ts
-#EXTINF:-1,Cinema +24 HD
+#EXTINF:-1,Sky Cinema +24
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7654.ts
-#EXTINF:-1, Cinema +1 HD
+#EXTINF:-1,Sky Cinema +1
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7653.ts
-#EXTINF:-1,Atlantic +1 HD
+#EXTINF:-1,Sky Atlantic HD +1
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7652.ts
-#EXTINF:-1,13th HD
+#EXTINF:-1,13th Street
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7562.ts
-#EXTINF:-1,AXN HD
+#EXTINF:-1,AXN
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7547.ts
 #EXTINF:-1,ZDF
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2012.ts
-#EXTINF:-1,Zdf Neo
+#EXTINF:-1,ZDFneo
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2263.ts
-#EXTINF:-1,Rtl Passion
+#EXTINF:-1,Passion
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7225.ts
-#EXTINF:-1,Rtl Crime
+#EXTINF:-1,RTL Crime
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7224.ts
-#EXTINF:-1,ZDF Info
+#EXTINF:-1,ZDFinfokanal
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2019.ts
 #EXTINF:-1,Orf 1
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2261.ts
 #EXTINF:-1,Orf 2
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2262.ts
-#EXTINF:-1,Sport Digital HD
+#EXTINF:-1,Sport Digital
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/3010.ts
-#EXTINF:-1,Phoenix
-http://cdn0.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/3021.ts
-#EXTINF:-1,RTL 2
+#EXTINF:-1,RTL II
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2728.ts
-#EXTINF:-1,MGM
-http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/3001.ts
 #EXTINF:-1,Kika
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2999.ts
-#EXTINF:-1,Fox HD
+#EXTINF:-1,FOX
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7549.ts
-#EXTINF:-1,Fox
+#EXTINF:-1,FOX
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2996.ts
-#EXTINF:-1,Orf Eins
-http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2994.ts
-#EXTINF:-1,ARTE HD
+#EXTINF:-1,ARTE 
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2726.ts
-#EXTINF:-1,13 TH STREET
-http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2725.ts
-#EXTINF:-1, Sat1
+#EXTINF:-1, Sat.1
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2020.ts
-#EXTINF:-1,Pro7 Maxx
+#EXTINF:-1,ProSieben Maxx
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2024.ts
 #EXTINF:-1,RTL
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2009.ts
-#EXTINF:-1,RTLNitro
+#EXTINF:-1,RTL Nitro
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2027.ts
-#EXTINF:-1,SuperRTL
+#EXTINF:-1,Super RTL
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2028.ts
 #EXTINF:-1,Boomerang
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2026.ts
-#EXTINF:-1,ZDF Kulture
+#EXTINF:-1,ZDF Kultur
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2030.ts
 #EXTINF:-1,N24
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2023.ts
-#EXTINF:-1,DeluxeMusic
+#EXTINF:-1,Deluxe Music
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2031.ts
-#EXTINF:-1,ARD
+#EXTINF:-1,Das Erste
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2008.ts
-#EXTINF:-1,3sat
-http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2017.ts
 #EXTINF:-1,DMAX
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2032.ts
 #EXTINF:-1,VOX
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2013.ts
-#EXTINF:-1,Euronews
-http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/3019.ts
-#EXTINF:-1,Cartoon Network
-http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/3024.ts
-#EXTINF:-1,Disney Channel
-http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2992.ts
-#EXTINF:-1,PROSIBIEN
+#EXTINF:-1,ProSieben
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/4131.ts
-#EXTINF:-1,Cinemagic HD
+#EXTINF:-1,Disney Cinemagic
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7561.ts
-#EXTINF:-1,Viva
-http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2029.ts
-#EXTINF:-1,----- CINE ----
-http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/3046.ts
 #EXTINF:-1,3D
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7548.ts
-#EXTINF:-1,007 HD
+#EXTINF:-1,Sky Cinema Hits
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7559.ts
-#EXTINF:-1,Cinema HD
+#EXTINF:-1,Sky Cinema
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7554.ts
-#EXTINF:-1,Nostalgie
+#EXTINF:-1,Sky Nostalgie
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/6386.ts
-#EXTINF:-1,MGM HD
+#EXTINF:-1,MGM
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7555.ts
-#EXTINF:-1,Sky Krimi
-http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/3009.ts
-#EXTINF:-1,Sky 007
+#EXTINF:-1,Sky Cinema Hits
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/3008.ts
-#EXTINF:-1,Sky Comedy
-http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/1998.ts
-#EXTINF:-1,Cinema
+#EXTINF:-1,Sky Cinema
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7205.ts
-#EXTINF:-1,Action
+#EXTINF:-1,Sky Action
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7215.ts
-#EXTINF:-1,Sky Cinema 1
+#EXTINF:-1,Sky Cinema +1
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/3007.ts
-#EXTINF:-1,Sky Atlantic
+#EXTINF:-1,Sky Sport News HD
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2005.ts
 #EXTINF:-1,Sky Action
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/1997.ts
@@ -271,7 +95,7 @@ http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/1997.ts
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2001.ts
 #EXTINF:-1,TNT Film
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/3014.ts
-#EXTINF:-1,TNT Series
+#EXTINF:-1,TNT Film
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/3041.ts
 #EXTINF:-1,Sky Sport 1 HD
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7560.ts
@@ -281,24 +105,20 @@ http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/1995.ts
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7565.ts
 #EXTINF:-1,Sky Sport 2
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/1996.ts
-#EXTINF:-1,Bundesliga 1 HD
+#EXTINF:-1,Sky Bundesliga 1
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7556.ts
 #EXTINF:-1,Bundesliga 1
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7583.ts
 #EXTINF:-1,Sky Sport Austria
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/3025.ts
-#EXTINF:-1,Sport News HD
+#EXTINF:-1,Sky Sport News HD
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7557.ts
-#EXTINF:-1,Sport News
+#EXTINF:-1,Sky Sport News
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/6385.ts
-#EXTINF:-1,Fan Zone HD
-http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7551.ts
-#EXTINF:-1,SPORT US HD
+#EXTINF:-1,Sport1 US
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/7550.ts
-#EXTINF:-1,Euro Sport
+#EXTINF:-1,Eurosport HD
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/2015.ts
-#EXTINF:-1,SPORT TIME TV HD
-http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/384.ts
 #EXTINF:-1,---- DOCUMENTARY ----
 http://cdn02.selling-team.net:8000/live/5xQMqh17Mv/onlyvision16/3043.ts
 #EXTINF:-1,Sky Atlantic HD
